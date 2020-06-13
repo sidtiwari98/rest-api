@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CSK",
+    "city": "Chennai",
+    "conference": "IPL'10"
+  },
+  {
+    "name": "RR",
+    "city": "Jaipur",
+    "conference": "IPL'08"
+  },
+  {
+    "name": "SRH",
+    "city": "Hyderabad",
+    "conference": "IPL'16"
+  }
+]

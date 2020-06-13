@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "MS",
+    "lastName": "Dhoni",
+    "position": "WicketKeeper",
+    "age": "37",
+    "team": "CSK"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Smith",
+    "position": "Batsman",
+    "age": "30",
+    "team": "RR"
+  },
+  {
+    "firstName": "Rashid",
+    "lastName": "Khan",
+    "position": "Bowler",
+    "age": "21",
+    "team": "SRH"
+  }
+]
